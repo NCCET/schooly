@@ -1,0 +1,149 @@
+<html>
+<title>Anima Hub</title>
+
+<head>
+<link rel="stylesheet href=" href="./stule.css">
+</head>
+
+<body>
+
+    <!--this is the @head and it will encompass or logo and our navigation bar -->
+    <head>
+        <div>
+            <table style="width: 100%;">
+            <tr>
+                <td>
+                    <a href="#">
+                        <img src="./img/evil-eye-amulet-shop_672794-1949.avif" width="100px" alt=""/>
+                    </a>
+                </td>
+                <td align="right">
+                    <nav style="
+                        margin-right: 50px;
+                        margin-top:16px ;
+                        margin-bottom:16px ;
+                        margin-left:50px ;">
+                        <a href="index.html">HOME</a>
+                        <a href="about_us.html"></a>
+                        <a href="contact_us.html"></a>
+                    </nav>
+
+
+                </td>
+            </tr>
+            </table>
+        </div>
+    </head>
+    <!--tHIS IS OUR MAIN AND IT WILL ENCOMPASS ALL OUR CONTENT FOR THE LANDING PAGE FOR OUR SITE-->
+    <MAIN class="mainContainer">
+        <section class="card-con"></section>
+        <div class="card">
+            
+        <table border="1">
+            <tr>
+                <td rowspan="2">
+                <img src="./icon/html-5.png" class="iconimg" alt="">
+            </td>
+                <td width="30%">
+                    <h3 class="subject">HTML</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="prof">level 5</p>
+                </td>
+            </tr>
+     </table>
+     </div>
+
+         <div>
+            <table>
+            </tr>
+            <td rowspan="2">
+                    <img src="./icon/css-3.png" class="iconimg" alt="">
+                    <td width="30%">
+                        <h3 class="subject">CSS</h3>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="prof">level 5</p>
+                    </td>
+                </tr>
+            </table>
+         </div>
+
+        
+    <div>
+         <table>
+                <tr>
+                    <td rowspan="2">
+                    <img src="./icon/java.png" class="iconimg" alt="">
+                    <td width="30%">
+                        <h3 class="subject">Javascript</h3>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="prof">Level 5</p>
+                    </td>
+                </tr>
+            </table>
+    </div>
+
+    <div class="card">
+        <h1>Work Experince</h1>
+        <ul>
+            <li>
+                none
+            </li>
+        </ul>
+    </div>
+    
+    <div class="card">
+        <h1>Education</h1>
+        <ul>
+            <li>
+                <h2>Agape Chirstion school</h2>
+                <h3>grade 1 - 8</h3><li>
+                    <h2> Kimberley THS</h2>
+                    <h3></h3>grade 8 - 12 </h3>
+                <li>Moremogolo ubern TVET College
+                <h4>Officer Administration</h4>
+                </li> NQF Level 4<li>
+                    <h5>Human Resource Managment</h5>
+                <li>N5</li>
+            </li>
+        </ul>
+    </div>
+    
+
+
+
+    
+    <!--<ul id="stuffmembersID">
+        <li>Gregory kgosiejang</li>
+        <li>loyiso Makinana</li>
+        <li>Tshiamo Tshesebe</li>
+        <li>Arthur Sindi</li>
+    </ul>-->
+    </MAIN>
+
+    <!--This is our footer and it will encompass all the quick links on our wbsite-->
+    <footer>
+        <table style="width: 100%;height: 100px;background-color: firebrick;">
+            <tr>
+                <td style="padding-left: 20vh;">13898 Msekang <br> bloemanda <br> Kimberley<br>Northern Cape<br>8345</td>
+                <td colspan="2" style="padding-left: 20vh;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d850.0000352340876!2d24.72741562276382!3d-28.70078504222424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e9b1ab2c5f95ee5%3A0xbed2de13a0186ee8!2s13895%20Msekang%20St%2C%20Homestead%2C%20Kimberley%2C%208301!5e0!3m2!1sen!2sza!4v1676460712797!5m2!1sen!2sza" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+            </tr>
+            <tr>
+                <td style="padding-left: 20vh;"><script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+                    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+                    <a href="http://facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a>
+            </tr>
+          </table>
+    </footer>
+</body>
+
+
+</html>

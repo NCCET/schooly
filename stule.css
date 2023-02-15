@@ -1,0 +1,48 @@
+
+body{
+    /*display: none;
+    background: url(./img/evil-eye-amulet-shop_672794-1949.avif);
+    object-fit: contain;*/
+}
+ul{
+   /* list-style-type: decimal;*/
+   list-style: square inside url(./user/user.png.png);
+}
+
+#stuffmembersID{
+   /* background-color:chocolate ;*/
+
+}
+#stuffmembersID li{
+    background-color: antiquewhite;
+    padding: 8px;
+    margin: 8px;
+}
+.mainContainer{
+
+}
+.containertitle{
+    font-size: small;
+    font-weight: lighter;
+}
+.iconimg{
+    width: 100px;
+    height:100px ;
+}
+.subject{
+  font-weight:bolder;  
+  font-family: 'Quicksand', sans-serif;
+}
+.prof{
+    font-weight:lighter;  
+    font-family: 'Quicksand', sans-serif;
+}
+.card-con{
+    display: flex;
+}
+.card{
+    width: 100%;
+    background-color: blue;
+    margin-right:20px ;
+    text-align: center;
+}
