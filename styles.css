@@ -46,3 +46,13 @@ ul{
     margin-right:20px ;
     text-align: center;
 }
+
+button{
+    font-size: medium;
+    padding: 8px;
+    margin: 50px 16px 16px 16px;
+    border-radius: 16px;
+}
+#myImg{
+    width: 100px;
+}

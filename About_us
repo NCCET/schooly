@@ -2,7 +2,7 @@
 <title>Anima Hub</title>
 
 <head>
-<link rel="stylesheet href=" href="./stule.css">
+<link rel="stylesheet href=" href="./styles.css">
 </head>
 
 <body>
@@ -24,7 +24,7 @@
                         margin-bottom:16px ;
                         margin-left:50px ;">
                         <a href="index.html">HOME</a>
-                        <a href="about_us.html"></a>
+                        <a href="About_us.ht"></a>
                         <a href="contact_us.html"></a>
                     </nav>
 
